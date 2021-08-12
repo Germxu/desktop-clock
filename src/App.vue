@@ -2,6 +2,7 @@
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
     <h3>{{ Date.now() }}</h3>
+    <h3>{{ Date.now() }}</h3>
 
 </template>
 
